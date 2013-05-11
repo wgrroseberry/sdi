@@ -14,3 +14,5 @@ var getArea = function () {say ("getArea fired!");
 getArea();
 // I made a change here
 getArea();
+// I made a change here
+getArea();
